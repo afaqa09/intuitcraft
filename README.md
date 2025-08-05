@@ -1,6 +1,6 @@
-INTUIT CRAFT
+CRAFT
 
-Intuit supports below products for Small Business owners:
+APP supports below products for Small Business owners:
 
 1. Quickbooks (QB) for Accounting
 2. QB Payroll for paying small business employees
